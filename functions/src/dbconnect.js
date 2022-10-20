@@ -1,4 +1,4 @@
-import { MongoClient, ObjectId } from "mongodb"
+import { MongoClient } from "mongodb"
 
 import { uri } from "../secrets.js"
 
